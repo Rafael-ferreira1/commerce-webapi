@@ -23,7 +23,7 @@ def products():
         }
     ])
 
-    #response.header.add("Access-Control-Allow-Origin","*")
+    #response.header.add("Access-Control-Allow-Origin","*") substituido por flask_cors
 
     return response
 
