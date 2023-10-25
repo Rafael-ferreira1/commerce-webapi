@@ -14,12 +14,12 @@ def products():
         {
             "title": "Caneca Personalizada de Porcelana ",
             "amount": 123.45,
-           " installments": {" number": 3, "total": 41.15, "hasfees": True },
+            "installments": {"number": 3, "total": 41.15, "hasFee":True},
         },
         {
             "title": "Caneca de Choop",
             "amount": 560.45,
-            "installments": { "number": 6, "total": 38.15, "hasfees": False},
+            "installments": {"number": 6, "total": 38.25, "hasFee":False},
         }
     ])
 
