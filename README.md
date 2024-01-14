@@ -7,7 +7,7 @@ desenvolvido para um ecomerce de canecas personalizadas.
 # Instalação
 Para instalar o projeto, siga estas etapas:
 
-1. Clone o repositório: `git clone https://github.com/seu-username/seu-projeto.git`
+1. Clone o repositório: `git@github.com:Rafael-ferreira1/commerce-webapi.git`
 2. Navegue até o diretório do projeto: `cd seu-projeto`
 3. Execute o comando de instalação: `npm install` ou `yarn install`
 
